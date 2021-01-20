@@ -16,9 +16,10 @@ We have taken a Content Image and a reference Style Image, the aim is to Stylize
 </hr> 
 
 ### Important parameters -
-<b>Style Weight : 10,000<br>
+<b>Style Weight : 0.01<br>
 Content Weight : 1<br>
-Optimizer used : LBFGs</b>
+learning rate : 0.001
+Optimizer used : Adam</b>
 
 ### Outcome(s) -
 For an Example, Below we have taken a content-image and a style-image and thus a new output-image (stylized.jpg) is generated using both.
