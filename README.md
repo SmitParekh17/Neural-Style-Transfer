@@ -1,4 +1,4 @@
-## tvarit_neural_style_transfer
+## neural_style_transfer
 
 <b>Topic: Neural Style Transfer</b>
 </br>
