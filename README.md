@@ -1,9 +1,7 @@
 ## neural_style_transfer
 
 <b>Topic: Neural Style Transfer</b>
-</br>
-The project is a part of Tvarit GmbH Virtual AI-powered Hackathon, held on 28th November 2020.
-<br>
+
 Underlying Concept: Use of Convolutional Neural Networks for Neural Style Transfer.
 </br>
 <b>Problem Statement: Develop a codebase to perform Neural Style Transfer given a content image and a style image</b>
